@@ -5,5 +5,6 @@ VIT University's campus is vast and consists of numerous buildings and landmarks
 
 # Architetcure
 
-![image](https://user-images.githubusercontent.com/87696656/233351948-c6363fd5-fa06-47c5-8c99-2725d50a686a.png)
+![image](https://user-images.githubusercontent.com/87696656/233352150-f7170611-ea04-4c14-84a7-58ad56f70c5a.png)
+
 
